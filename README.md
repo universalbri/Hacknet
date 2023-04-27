@@ -7,6 +7,6 @@ I started this project as a proof of concept in C#. In it's current state, it ha
 
 Some commands are currently functional - port scans for instance are quick and work, this client just doesn't actually implement the hacks (yet). I also added in a command to retrieve wireless access points, and a few others. 
 
-Again, the only reason I'm posting this to GITHUB is I've gotten bored of it, and wouldn't mind seeing others brqanch this and work on it themselves. 
+Again, the only reason I'm posting this to GITHUB is I've gotten bored of it, and wouldn't mind seeing others branch this and work on it themselves. 
 
 Please, let me know if you find value with this!
