@@ -10,3 +10,9 @@ Some commands are currently functional - port scans for instance are quick and w
 Again, the only reason I'm posting this to GITHUB is I've gotten bored of it, and wouldn't mind seeing others branch this and work on it themselves. 
 
 Please, let me know if you find value with this!
+
+Screenshot of an actual probe (against www.microsoft.com)
+<img src="Screenshot1.jpg"/>
+
+Screenshot of a help request.
+<img src="Screnshot2.jpg"/>
