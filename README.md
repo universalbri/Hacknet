@@ -1,4 +1,4 @@
-# Hacknet
+# Hacknet but Real Proof of Concept
 A conversion of the game "Hacknet" to an actual working client. 
 
 I loved the game Hacknet so much, I started wondering - could I create a client that actually worked like the game itself?
